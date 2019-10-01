@@ -1,6 +1,8 @@
 '''
 O programa vai pegar o nome e a idade da pessoa
 e informar o ano de nascimento ...
+
+feito com PySimpleGUI
 '''
 
 import PySimpleGUI as sg
